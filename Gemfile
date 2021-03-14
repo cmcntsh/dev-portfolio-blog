@@ -11,6 +11,7 @@ gem "jekyll-assets"
 gem "sprockets", "~> 3.7"
 gem "autoprefixer-rails"
 gem "jemoji"
+gem "dev-portfolio-blog"
 
 gemspec
 
