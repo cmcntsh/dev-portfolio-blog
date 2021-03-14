@@ -1,6 +1,7 @@
 resume_url: "Resume.pdf"
-author_name: "John Doe"
-url: johndoe.com
+author_name: "Chris Macintosh"
+description: "Resume site for Chris Macintosh"
+url: chrismacintosh.com
 theme: dev-portfolio-blog
 
 plugins:
