@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Whoa! It worked!
+home_text: Nursing | Informatics | Research
 title: Chris Macintosh
 ---
