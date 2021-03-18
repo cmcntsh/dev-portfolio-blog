@@ -2,10 +2,10 @@
 layout: post
 comments: true
 title : Emojis list
-categories: [Emoji]
+categories: [Emoji|GitHub|Markdown]
 ---
 
-
+Keeping this nice example of how to use emojis in GitHub markdown.
 
 ## Here is the list of all the emoji or atleast max of it.
 
