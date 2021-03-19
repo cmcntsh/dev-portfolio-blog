@@ -10,4 +10,4 @@ Christopher I. Macintosh, PhD, RN, is a Solutions Analyst at Intermountain Healt
 
 # About this site
 
-This site was created using <a href = "https://pages.github.com/" target = "_blank">GitHub Pages</a> with a <a href = "https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll" target = "_blank">Jekyll</a> template.
+This site was created using <a href = "https://pages.github.com/" target = "_blank">GitHub Pages</a> with a <a href = "https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll" target = "_blank">Jekyll</a> template. The <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeraq9C9TdthyyHus2lvieimKbIssQTbda7OeIPeJ9iD628Uw/viewform" target = "_blank">Contact</a> page was created using a <a href = "https://www.google.com/forms/about/" target = "_blank">Google form</a>.
