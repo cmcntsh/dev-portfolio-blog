@@ -16,6 +16,12 @@ categories: [GitHub, HTML]
 
 # Clone your new repository with VSCode
 
+- GitHub - Navigate to your repository - Code - Clone - Click on the clipboard icon to copy the path for your repository
+
+<img src="https://github.com/cmcntsh/dev-portfolio-blog/blob/acf9c63a0eb267eaceafc67be6b5f60453844e7f/assets/images/GitHubZip.png" alt="Copy Path" class="inline"/>
+
+- VSCode - View - Command palette... - Git:Clone - paste the path into the dialog box - Enter - Navigate to where you want repository - Select Repository Location - Open
+
 # Add files to your project with VSCode
 
 # Push your changes to GitHub
