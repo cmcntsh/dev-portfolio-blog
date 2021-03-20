@@ -8,6 +8,11 @@ categories: [GitHub, HTML]
 # Create a new repository in GitHub.
 
 - GitHub - Repositories - New
+- Name your repository
+- Make the repository public (to be able to use GitHub Pages later)
+- Add a README file
+
+![Create Repository](https://github.com/cmcntsh/dev-portfolio-blog/tree/master/assets/images/GHCreateNew.png)
 
 # Clone your new repository with VSCode
 
