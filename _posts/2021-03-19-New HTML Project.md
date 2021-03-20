@@ -12,7 +12,7 @@ categories: [GitHub, HTML]
 - Make the repository public (to be able to use GitHub Pages later)
 - Add a README file
 
-<img src="https://github.com/cmcntsh/dev-portfolio-blog/tree/master/assets/images/GHCreateNew.png" alt="Create Repository" class="inline"/>
+<img src="https://github.com/cmcntsh/dev-portfolio-blog/blob/e5cf77b171d3c7fdbee9ea6a4cdaf8152466f97c/assets/images/GHCreateNew.png" alt="Create Repository" class="inline"/>
 
 # Clone your new repository with VSCode
 
