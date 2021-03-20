@@ -34,6 +34,25 @@ categories: [GitHub, HTML]
   - style.css
   - script.js
 
+- Add the following code to your .html file to include the .css and .js files in the page.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
 # Push your changes to GitHub
 
 # Turn on GitHub Pages
