@@ -5,7 +5,7 @@ title: Start a New HTML Project in GitHub with VSCode
 categories: [GitHub, HTML]
 ---
 
-### Create a new repository in GitHub.
+### 1. Create a new repository in GitHub.
 
 - GitHub - Repositories - New
 - Name your repository
@@ -14,7 +14,7 @@ categories: [GitHub, HTML]
 
 ![New Repository](/assets/images/GHCreateNew.png)
 
-### Clone your new repository with VSCode
+### 2. Clone your new repository with VSCode
 
 - GitHub - Navigate to your repository - Code - Clone - Click on the clipboard icon to copy the path for your repository
 
@@ -22,7 +22,7 @@ categories: [GitHub, HTML]
 
 - VSCode - View - Command palette... - Git:Clone - paste the path into the dialog box - Enter - Navigate to where you want repository - Select Repository Location - Open
 
-### Add files to your project with VSCode
+### 3. Add files to your project with VSCode
 
 - Add index.html, style.css, script.js files for a basic project.
 - Hover over the name of your new repository and select New File from the options that appear next to the name.
@@ -53,7 +53,7 @@ categories: [GitHub, HTML]
 </html>
 ```
 
-### Push your changes to GitHub
+### 4. Push your changes to GitHub
 
 - VSCode - Click on the Source Control icon on the left
 
@@ -76,7 +76,7 @@ categories: [GitHub, HTML]
 - Give the application a few seconds to do its work.
 - This will pull any new items from your GitHub repository and push any new changes you made to your remote repository.
 
-### Turn on GitHub Pages
+### 5. Turn on GitHub Pages
 
 The .html file can be viewed as a web page when the file is named index.html and GitHub Pages is turned on.
 
