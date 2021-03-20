@@ -55,6 +55,24 @@ categories: [GitHub, HTML]
 
 # Push your changes to GitHub
 
+- VSCode - Click on the Source Control icon on the left 
+- Enter a commit message in the Message field right under the SOURCE CONTROL heading.
+  - Something like "First Commit" or "Add Files" should be fine.
+
+![New File](/assets/images/VSCcommit.png)
+
+- Click on the Commit checkmark next to the SOURCE CONTROL heading.
+
+![New File](/assets/images/VSCMoreActions.png)
+
+- Click on the three dots next to the SOURCE CONTROL heading for Views and More Actions.
+- Select Pull, Push - Sync
+
+![New File](/assets/images/VSCsync.png)
+
+- Give the application a few seconds to do its work.
+- This will pull any new items from your GitHub repository and push any new changes you made to your remote repository.
+
 # Turn on GitHub Pages
 
 
