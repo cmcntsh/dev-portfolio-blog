@@ -12,20 +12,27 @@ categories: [GitHub, HTML]
 - Make the repository public (to be able to use GitHub Pages later)
 - Add a README file
 
-<img src="https://github.com/cmcntsh/dev-portfolio-blog/blob/e5cf77b171d3c7fdbee9ea6a4cdaf8152466f97c/assets/images/GHCreateNew.png" alt="Create Repository" class="inline"/>
+![New Repository](/assets/images/GHCreateNew.png)
 
 # Clone your new repository with VSCode
 
 - GitHub - Navigate to your repository - Code - Clone - Click on the clipboard icon to copy the path for your repository
 
-<img src="https://github.com/cmcntsh/dev-portfolio-blog/blob/acf9c63a0eb267eaceafc67be6b5f60453844e7f/assets/images/GitHubZip.png" alt="Copy Path" class="inline"/>
-![Path](/assets/images/GitHubZip.png)
-![Permalink](https://github.com/cmcntsh/dev-portfolio-blog/blob/5bad9746eed9f215b5a93f26b6e27d3a904fc7e0/assets/images/GitHubZip.png)
-![Path](https://github.com/cmcntsh/dev-portfolio-blog/blob/master/assets/images/GitHubZip.png)
+![Clone](/assets/images/GitHubZip.png)
 
 - VSCode - View - Command palette... - Git:Clone - paste the path into the dialog box - Enter - Navigate to where you want repository - Select Repository Location - Open
 
 # Add files to your project with VSCode
+
+- Add index.html, style.css, script.js files for a basic project.
+- Hover over the name of your new repository and select New File from the options that appear next to the name.
+
+![New File](/assets/images/VSCNewFile.png)
+
+- Type out the complete name of the new file, including the file extension. Repeat this for each file.
+  - index.html
+  - style.css
+  - script.js
 
 # Push your changes to GitHub
 
