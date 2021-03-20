@@ -7,6 +7,8 @@ categories: [GitHub, HTML]
 
 # Create a new repository in GitHub.
 
+- GitHub - Repositories - New
+
 # Clone your new repository with VSCode
 
 # Add files to your project with VSCode
