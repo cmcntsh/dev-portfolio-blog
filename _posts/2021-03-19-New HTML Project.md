@@ -19,6 +19,9 @@ categories: [GitHub, HTML]
 - GitHub - Navigate to your repository - Code - Clone - Click on the clipboard icon to copy the path for your repository
 
 <img src="https://github.com/cmcntsh/dev-portfolio-blog/blob/acf9c63a0eb267eaceafc67be6b5f60453844e7f/assets/images/GitHubZip.png" alt="Copy Path" class="inline"/>
+![Path](assets/images/GitHubZip.png)
+![Permalink](https://github.com/cmcntsh/dev-portfolio-blog/blob/5bad9746eed9f215b5a93f26b6e27d3a904fc7e0/assets/images/GitHubZip.png)
+![Path](https://github.com/cmcntsh/dev-portfolio-blog/blob/master/assets/images/GitHubZip.png)
 
 - VSCode - View - Command palette... - Git:Clone - paste the path into the dialog box - Enter - Navigate to where you want repository - Select Repository Location - Open
 
