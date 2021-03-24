@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: Jekyll Resources
+title: Informatica Resources
 categories: [Informatica, Data Management]
 ---
 
