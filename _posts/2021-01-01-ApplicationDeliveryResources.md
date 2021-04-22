@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: Application Delivery Resources/Technology
-categories: [Word, RNotebook, RStudio]
+categories: [Application Delivery]
 ---
 
 Some resources for working with web applications.
