@@ -14,6 +14,7 @@ layout: description
   {% endif %}
   {% for category in categories %}
       <a href="{{site.url}}/categories/#{{category|slugize}}">{{category}}</a>
+      <a href="{{site.url}}/blog/">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
