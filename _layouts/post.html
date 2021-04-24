@@ -3,9 +3,12 @@ layout: description
 ---
 <h2 style = "text-align:center">{{ page.title }}</h2>
 <small>{{ post.date | date_to_string }}</small>
+
 {{content}}
 
+<hr size = "3" width = "50%" align = "center">
 <div class="post-categories" style = "text-align:center">
+  
   Categories :
   {% if post %}
     {% assign categories = post.categories %}
