@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title : Emojis list
 categories: [Emoji, Markdown]
 ---
