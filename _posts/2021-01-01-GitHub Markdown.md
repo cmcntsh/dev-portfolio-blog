@@ -5,7 +5,7 @@ title: Markdown in GitHub
 categories: [GitHub, Markdown]
 ---
 
-Keeping this as a nice demo.
+This was included as an example post when I set up this blog template. I'm keeping this as a nice demo of how to use markdown on GitHub.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
