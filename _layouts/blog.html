@@ -12,7 +12,8 @@ pagetype: blog
 <div class="blogPage-categoryList">
     <ul>
     <li><a href="{{ "/categories/" | relative_url }}">Categories</a> : </li>
-    {% for category in site.categories %}
+    {% assign sortedCategories = site.categories | sort %}
+    {% for category in sortedCategories %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
         <li><a href="{{"/categories/#" | append: category_name | relative_url}}">{{category_name}}</a></li>
     {% endfor %}
