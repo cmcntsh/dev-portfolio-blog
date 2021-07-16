@@ -15,5 +15,6 @@ Some resources about text similarity.
   - Bag of words
   - tf-idf
 - Article: Semantic similarity with BERT <a href = "https://keras.io/examples/nlp/semantic_similarity_with_bert/" target = "_blank">https://keras.io/examples/nlp/semantic_similarity_with_bert/</a>
+- Article: String similarity metrics for ontology alignment <a href = "https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1174&context=cse" target = "_blank">https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1174&context=cse</a>
 
  
