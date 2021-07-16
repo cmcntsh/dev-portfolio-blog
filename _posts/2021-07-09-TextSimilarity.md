@@ -18,5 +18,6 @@ Some resources about text similarity.
 - Article: String similarity metrics for ontology alignment <a href = "https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1174&context=cse" target = "_blank">https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1174&context=cse</a>
 - Article: AMR similarity metrics from principles <a href = "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00329/96472/AMR-Similarity-Metrics-from-Principles" target = "_blank">https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00329/96472/AMR-Similarity-Metrics-from-Principles</a>
 - Article: String metric <a href = "https://en.wikipedia.org/wiki/String_metric" target = "_blank">https://en.wikipedia.org/wiki/String_metric</a>
+- Article: Using similarity metrics for terminology recognition <a href = "http://www.lrec-conf.org/proceedings/lrec2008/pdf/717_paper.pdf" target = "_blank">http://www.lrec-conf.org/proceedings/lrec2008/pdf/717_paper.pdf</a>
 
  
