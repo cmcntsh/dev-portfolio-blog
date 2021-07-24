@@ -21,3 +21,7 @@ Some description of roles and responsibilities of different levels of leadership
   - Vice President (make the plan for a section)
   - Directors (drive results with little to no supervision)
   - Managers (drive results with some support)
+- What is the difference between a manager and a director <a href = "https://www.ivyexec.com/career-advice/2016/director-vs-manager-what-you-need-to-know-to-advance-to-the-next-step/" target = "_blank">https://www.ivyexec.com/career-advice/2016/director-vs-manager-what-you-need-to-know-to-advance-to-the-next-step/</a>
+  - Directors (drive results with little to no supervision)
+    - test
+  - Managers (drive results with some support)
