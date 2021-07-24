@@ -23,5 +23,16 @@ Some description of roles and responsibilities of different levels of leadership
   - Managers (drive results with some support)
 - What is the difference between a manager and a director <a href = "https://www.ivyexec.com/career-advice/2016/director-vs-manager-what-you-need-to-know-to-advance-to-the-next-step/" target = "_blank">https://www.ivyexec.com/career-advice/2016/director-vs-manager-what-you-need-to-know-to-advance-to-the-next-step/</a>
   - Directors (drive results with little to no supervision)
-    - test
+    - Hands off
+    - Manager of managers
+    - Time to work on higher-level tasks
+    - Charting the course more long-term
+    - Formulate what success will look like
+    - Evaluate organization's processes for effectiveness
   - Managers (drive results with some support)
+    - Hands on
+    - Oversee employees
+    - Encourage, mentor, discipline, evaluate employees
+    - Day to day concerns
+    - Implement strategies which they're provided
+    - Execute the procedures they're provided
