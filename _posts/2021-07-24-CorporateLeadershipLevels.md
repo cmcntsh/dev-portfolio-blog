@@ -17,3 +17,7 @@ Some description of roles and responsibilities of different levels of leadership
   - Section leadership (VP)
   - Directors (tactical)
   - Managers
+- Career development: What it really means to be a manager, director, or VP <a href = "https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/" target = "_blank">https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/</a>
+  - Vice President (make the plan for a section)
+  - Directors (drive results with little to no supervision)
+  - Managers (drive results with some support)
