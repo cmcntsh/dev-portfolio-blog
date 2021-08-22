@@ -17,7 +17,7 @@ categories: [Screen Capture, Video, Audio, Mouse Highlight]
 
 ### Cursor Highlighting
 
-* How to highlight mouse pointer Windows 10 (18 min) <a href="" target="_blank">https://www.youtube.com/watch?v=kwSqtNvT7to&t=923s</a>
+* How to highlight mouse pointer Windows 10 (18 min) <a href="https://www.youtube.com/watch?v=kwSqtNvT7to&t=923s" target="_blank">https://www.youtube.com/watch?v=kwSqtNvT7to&t=923s</a>
 * Autohotkey <a href="https://www.autohotkey.com/" target="_blank">https://www.autohotkey.com/</a>
 * Cursor Highlighter <a href="https://sites.google.com/site/boisvertlab/computer-stuff/online-teaching#Highlighter" target="_blank">https://sites.google.com/site/boisvertlab/computer-stuff/online-teaching#Highlighter</a>
 
