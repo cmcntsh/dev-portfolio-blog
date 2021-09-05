@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: GitHub Education
-categories: [Teaching Coding]
+categories: [Teaching Coding, GitHub]
 ---
 
 GitHub Education.
