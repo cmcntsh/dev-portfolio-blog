@@ -17,7 +17,7 @@ There are a few examples of how to parse strings for csv files using JavaScript.
 
 An example CSV file.
 
-```Csv
+```
 category,correct,answer2,answer3,answer4
 a,right,wrong,wrong,wrong
 a,right,wrong,wrong,wrong
@@ -32,7 +32,7 @@ c,right,wrong,wrong,wrong
 
 An example HTML file.
 
-```Html
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -60,7 +60,7 @@ An example HTML file.
 
 An example JavaScript file.
 
-```JavaScript
+```
 let questionsArr = [];
 const uploadConfirm = document.querySelector('#uploadConfirm').addEventListener('click', () => {
     Papa.parse(document.querySelector('#uploadFile').files[0], {
