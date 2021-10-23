@@ -13,7 +13,15 @@ Some example of working with CSV files with JavaScript.
 
 There are a few examples of how to parse strings for csv files using JavaScript. One of the challenges with doing that, though is trying to code to cover different formats and exceptions. It might be a good idea to use an exiting library to do the heavy lifting.
 
+## Requirements
+
+Open a CSV file and load the contents into a JavaScript array so the data can be used in an application.
+
+## Library
+
 - PaPa Parse seems to be an easy library to use. <a href = "https://www.papaparse.com/" target = "_blank">https://www.papaparse.com/</a>
+
+## Example
 
 An example CSV file.
 
@@ -95,8 +103,82 @@ function makeLog() {
 
 # Saving CSV files with JavaScript
 
-- Spring Framework <a href = "https://spring.io/projects/spring-framework" target = "_blank">https://spring.io/projects/spring-framework</a>
-- VMWare Virtual Platform
-- Graylog <a href = "https://www.graylog.org/" target = "_blank">https://www.graylog.org/</a>
-- ElasticSearch <a href = "https://www.elastic.co/" target = "_blank">https://www.elastic.co/</a>
-- Tonaquint <a href = "https://tonaquint.com/" target = "_blank">https://tonaquint.com/</a>
+Data from a JavaScript array can be saved to a CSV file. PaPa Parse can help with this also.
+
+## Example using PaPa Parse
+
+This solution came from <a href = "https://stackoverflow.com/questions/52240221/download-save-csv-file-papaparse" target = "_blank">https://stackoverflow.com/questions/52240221/download-save-csv-file-papaparse</a>
+
+An example HTML file.
+
+```
+
+```
+
+An example JavaScript file.
+
+```
+const objects = [
+    {firstName: 'John', lastName: 'Smith', age: 30},
+    {firstName: 'Jane', lastName: 'Doe', age: 35}
+];
+
+const downloadCSV = function(){
+    var csv = Papa.unparse(objects);
+    console.log(objects);
+    console.log(csv);
+    var csvData = new Blob([csv], {type: 'text/csv;charset=utf-8;'});
+    var csvURL =  null;
+    if (navigator.msSaveBlob) {
+        csvURL = navigator.msSaveBlob(csvData, 'download.csv');
+    } else {
+        csvURL = window.URL.createObjectURL(csvData);
+    }
+    var tempLink = document.createElement('a');
+    tempLink.href = csvURL;
+    tempLink.setAttribute('download', 'download.csv');
+    tempLink.click();
+}
+
+downloadCSV();
+```
+
+## Example not using PaPa Parse
+
+This solution came from <a href = "https://stackoverflow.com/questions/14964035/how-to-export-javascript-array-info-to-csv-on-client-side" target = "_blank">https://stackoverflow.com/questions/14964035/how-to-export-javascript-array-info-to-csv-on-client-side</a>
+
+An example HTML .html file.
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+An example JavaScript .js file.
+
+```
+const rows = [
+    ["name1", "city1", "some other info"],
+    ["name2", "city2", "more info"]
+];
+
+let csvContent = "data:text/csv;charset=utf-8," 
+    + rows.map(e => e.join(",")).join("\n");
+var encodedUri = encodeURI(csvContent);
+var link = document.createElement("a");
+link.setAttribute("href", encodedUri);
+link.setAttribute("download", "my_data.csv");
+document.body.appendChild(link); // Required for FF
+
+link.click(); // This will download the data file named "my_data.csv".
+```
