@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: false
-title: Create, Read, Update, Delete (CRUD) Applications
-categories: [CRUD]
+title: Natural Language Processing Resources
+categories: [Natural Language Processing, NLP]
 ---
 
 Some CRUD application resources.
